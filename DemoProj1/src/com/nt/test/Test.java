@@ -8,5 +8,4 @@ public class Test {
      Utility obj=new Utility();
      System.out.println(obj.getSysDate()); 
 	}
-
 }
