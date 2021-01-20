@@ -7,7 +7,6 @@ public class Utility {
 	{
 		return new Date();
 	}
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Utility u=new Utility();
