@@ -10,6 +10,7 @@ public class Utility {
 	public void m1()
 	{
 		System.out.println("Hello M1 method1234");
+		System.out.println("Hello M1 method1234");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
