@@ -14,7 +14,7 @@ public class Utility {
 
 		System.out.println("BankName\t:");
 		System.out.println("Bankifsc\t:");
-		System.out.println("Bankbranch\t:");
+		System.out.println("Bankbranch\t:");//Branch printout
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
