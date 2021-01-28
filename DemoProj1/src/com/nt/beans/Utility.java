@@ -12,9 +12,15 @@ public class Utility {
 		System.out.println("Hello M1 method1234");
 		System.out.println("Hello M1 method1234");
 	}
+
 	public void M2()
 	{
 		System.out.println("Hello World!!!");
+
+	}
+		public void m3()
+	{
+		
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
