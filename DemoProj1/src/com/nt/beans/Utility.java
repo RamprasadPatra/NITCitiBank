@@ -15,6 +15,6 @@ public class Utility {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Utility u=new Utility();
-		System.out.println(u.getSysDate());
+		System.out.println(u.getSysDate().clone());
 	}
 }
